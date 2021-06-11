@@ -24,5 +24,5 @@ If you are using the Linux OS (Operating System):
 5. (Optional) Make your edits and modifications.
 6. Get Pyinstaller (pip3 install pyinstaller)
 7. In the command prompt, type in "pyinstaller (directory path)/SuperSpaceDefense.py --onefile
-8. After a while, go to the folder where you put the file *SuperSpaceDefense_HackerVersion.py* and then go to dist. Then open the file inside and start playing!
+8. After a while, go to the folder where you put the file *SuperSpaceDefense.py* and then go to dist. Then open the file inside and start playing!
 9. If you encounter issues about not being able to open the file, copy the directory, go to terminal, then type in *cd (paste the directory here)*, then type in *chmod +x SuperSpaceDefense*, then type in *./SuperSpaceDefense*

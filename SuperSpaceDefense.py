@@ -10,7 +10,7 @@ from pygame.font import SysFont
 # Initialize Pygame
 pygame.init()
 
-# This game is open-sourced. If you wish to mod this and make it public, you MUST open-source it as well.
+# This game is open-sourced. If you wish to mod this and make it public, please reference me.
 # If you are using this file and want to mod it, get an IDLE, such as Visual Studio Code.
 # To compile this game to an executable, please install Pyinstaller using pip. The command to install for Windows: pip install pyinstaller
 # To compile this game to an executable, please install Pyinstaller using pip. The command to install for linux: pip3 install pyinstaller

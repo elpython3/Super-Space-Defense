@@ -17,7 +17,7 @@ If you are using the Windows OS (Operating System):
 8. After a while, go to the folder where you put the file *SuperSpaceDefense.py* and then go to dist. Then open the file inside and start playing!
 
 If you are using the Linux OS (Operating System):
-1. 1. Download the .py file. DO NOT RENAME IT UNLESS YOU KNOW WHAT YOU ARE DOING!
+1. Download the .py file. DO NOT RENAME IT UNLESS YOU KNOW WHAT YOU ARE DOING!
 2. Install Visual Studio Code. You can install another IDLE or IDE, or use your text editor, but I find Visual Studio Code easier to navigate. Visual Studio Code is a free IDE.
 3. Get Python (type in *sudo apt install python* in the terminal, or ctrl-alt-t)
 4. Get the module pygame (in terminal, type in *pip3 install pygame*)

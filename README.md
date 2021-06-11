@@ -3,6 +3,7 @@
 
 Welcome to this repository! Unfortunately, you will have to follow the hacker's guide, until I find out how to add executables made in Python onto a repository.
 
+Users on mac, please try using the Linux steps.
 
 # HACKER'S GUIDE
 

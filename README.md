@@ -13,7 +13,7 @@ If you are using the Windows OS (Operating System):
 4. Get the module Pygame (pip install pygame)
 5. (Optional) Make your edits and modifications.
 6. Get Pyinstaller (pip install pyinstaller)
-7. In the command prompt, type in "pyinstaller (directory path)\SuperSpaceDefense.py --onefile
+7. In the command prompt, type in "pyinstaller (directory path)\SuperSpaceDefense.py --onefile"
 8. After a while, go to the folder where you put the file *SuperSpaceDefense.py* and then go to dist. Then open the file inside and start playing!
 
 If you are using the Linux OS (Operating System):

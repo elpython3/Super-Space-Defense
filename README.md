@@ -5,6 +5,8 @@ Welcome to this repository! Unfortunately, you will have to follow the hacker's 
 
 Users on mac, please try using the Linux steps.
 
+If you encounter any bugs, feel free to mention it in the _Issues_ page, or, if you have a suggestion that makes this better, you can make a pull request!
+
 # HACKER'S GUIDE
 
 If you are using the Windows OS (Operating System):
